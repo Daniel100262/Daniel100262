@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @daniel100262
 - 👀 I’m interested in Linux, DevOps, and software development
-- 🌱 I’m currently learning JavaScripts frameworks and libraries such AngularJS, ReactJS and VueJS
+- 🌱 I’m currently learning Javascript frameworks and libraries such AngularJS, ReactJS and VueJS
 - 💞️ I’m looking to collaborate on JavaScript, Java, GO and OpenSource projects
-- 📫 Reach me on LinkedIn: https://www.linkedin.com/in/daniel-silva-rosa-80865057
+- 📫 Reach me on LinkedIn: https://www.linkedin.com/in/daniel-silva-rosa
